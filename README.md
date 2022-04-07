@@ -19,6 +19,11 @@ The API is deployed in the Heroku cloud and has its own database incorporated wi
 
 - Not Found: It is a component to handle errors and pages not found
 
+# How to run the app
+Git clone the repository and then on both server and frontend folders run 'npm install'
+
+In the server folder run "npm run server" and then in the frontend folder run "npm start"
+
 # Specifications:
 
 * React version: 17.0.2
